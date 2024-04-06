@@ -1,0 +1,42 @@
+{
+  "attackIndex": 9812,
+  "attackName": "Wave Crash",
+  "attackType": "Water",
+  "attackCategory": "PHYSICAL",
+  "basePower": 120,
+  "ppBase": 10,
+  "ppMax": 15,
+  "accuracy": 100,
+  "makesContact": true,
+  "effects": [
+    {
+      "percentRecoil": 33,
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "Recoil"
+    }
+  ],
+  "animations": [
+      {
+          "id": "run"
+      }
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+  },
+  "z": [
+    {
+      "crystal": "normalium_z",
+      "attackName": "Breakneck Blitz",
+      "basePower": 190,
+      "effects": [],
+      "allowedPokemon": []
+    }
+  ]
+}

@@ -1,0 +1,370 @@
+{
+  "pixelmonName": "Regighost",
+  "pokemon": "Regirock",
+  "form": 0,
+  "stats": {
+    "HP": 100,
+    "Attack": 120,
+    "Defence": 50,
+    "Speed": 130,
+    "SpecialAttack": 120,
+    "SpecialDefence": 70
+  },
+  "catchRate": 3,
+  "malePercent": -1,
+  "spawnLevel": 40,
+  "spawnLevelRange": 0,
+  "baseExp": 217,
+  "baseFriendship": 35,
+  "types": [
+    "Ghost"
+  ],
+  "height": 1.7,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Defence": 3
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -0.9,
+      "z": -0.55
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -0.9,
+      "z": -0.55
+    }
+  },
+  "weight": 230.0,
+  "bounding_box": {
+    "width": 1.4,
+    "height": 1.3,
+    "eye_height": 1.1
+  },
+  "evolutions": [],
+  "abilities": [
+    "CursedBody",
+    null,
+    "ShadowShield"
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 81,
+  "levelUpMoves": {
+    "0": [
+      "Charge Beam",
+      "Shadow Sneak"
+    ],
+    "6": [
+      "Bulldoze"
+    ],
+    "12": [
+      "Ancient Power"
+    ],
+    "18": [
+      "Nightmare Blow"
+    ],
+    "24": [
+      "Shadow Claw"
+    ],
+    "30": [
+      "Curse"
+    ],
+    "36": [
+      "Nasty Plot"
+    ],
+    "42": [
+      "Hex"
+    ],
+    "48": [
+      "Will-O-Wisp"
+    ],
+    "54": [
+      "Dark Pulse"
+    ],
+    "60": [
+      "Fire Punch"
+    ],
+    "66": [
+      "Thunder"
+    ],
+    "72": [
+      "Poltergeist"
+    ],
+    "78": [
+      "Moongeist Beam"
+    ]
+  },
+  "tutorMoves": [
+    "Meteor Beam"
+  ],
+  "eggMoves": [],
+  "transferMoves": [
+    "Block",
+    "Confide",
+    "Counter",
+    "Defense Curl",
+    "Double Team",
+    "Double-Edge",
+    "Dynamic Punch",
+    "Focus Punch",
+    "Frustration",
+    "Gravity",
+    "Headbutt",
+    "Hidden Power",
+    "Mimic",
+    "Mud-Slap",
+    "Natural Gift",
+    "Power-Up Punch",
+    "Psych Up",
+    "Return",
+    "Rock Polish",
+    "Rock Smash",
+    "Rollout",
+    "Secret Power",
+    "Seismic Toss",
+    "Shock Wave",
+    "Smack Down",
+    "Strength",
+    "Swagger",
+    "Toxic"
+  ],
+  "hmMoves": [],
+  "trMoves": [
+    "Body Slam",
+    "Thunderbolt",
+    "Thunder",
+    "Earthquake",
+    "Substitute",
+    "Endure",
+    "Sleep Talk",
+    "Superpower",
+    "Iron Defense",
+    "Focus Blast",
+    "Earth Power",
+    "Flash Cannon",
+    "Iron Head",
+    "Stone Edge",
+    "Stealth Rock",
+    "Heavy Slam",
+    "Body Press"
+  ],
+  "tmMoves8": [
+    "Mega Punch",
+    "Mega Kick",
+    "Fire Punch",
+    "Ice Punch",
+    "Thunder Punch",
+    "Hyper Beam",
+    "Giga Impact",
+    "Thunder Wave",
+    "Dig",
+    "Safeguard",
+    "Self-Destruct",
+    "Rest",
+    "Rock Slide",
+    "Snore",
+    "Protect",
+    "Sandstorm",
+    "Sunny Day",
+    "Facade",
+    "Brick Break",
+    "Rock Tomb",
+    "Sand Tomb",
+    "Rock Blast",
+    "Fling",
+    "Drain Punch",
+    "Round",
+    "Bulldoze",
+    "Stomping Tantrum"
+  ],
+  "tmMoves7": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Protect",
+    "Safeguard",
+    "Frustration",
+    "Smack Down",
+    "Thunderbolt",
+    "Thunder",
+    "Earthquake",
+    "Return",
+    "Brick Break",
+    "Double Team",
+    "Sandstorm",
+    "Rock Tomb",
+    "Facade",
+    "Rest",
+    "Round",
+    "Focus Blast",
+    "Fling",
+    "Charge Beam",
+    "Explosion",
+    "Giga Impact",
+    "Rock Polish",
+    "Stone Edge",
+    "Thunder Wave",
+    "Psych Up",
+    "Bulldoze",
+    "Rock Slide",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Protect",
+    "Safeguard",
+    "Frustration",
+    "Smack Down",
+    "Thunderbolt",
+    "Thunder",
+    "Earthquake",
+    "Return",
+    "Dig",
+    "Brick Break",
+    "Double Team",
+    "Sandstorm",
+    "Rock Tomb",
+    "Facade",
+    "Rest",
+    "Round",
+    "Focus Blast",
+    "Fling",
+    "Charge Beam",
+    "Explosion",
+    "Giga Impact",
+    "Rock Polish",
+    "Stone Edge",
+    "Thunder Wave",
+    "Psych Up",
+    "Bulldoze",
+    "Rock Slide",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Secret Power",
+    "Power-Up Punch",
+    "Confide"
+  ],
+  "tmMoves5": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Protect",
+    "Safeguard",
+    "Frustration",
+    "Smack Down",
+    "Thunderbolt",
+    "Thunder",
+    "Earthquake",
+    "Return",
+    "Dig",
+    "Brick Break",
+    "Double Team",
+    "Sandstorm",
+    "Rock Tomb",
+    "Facade",
+    "Rest",
+    "Round",
+    "Focus Blast",
+    "Fling",
+    "Charge Beam",
+    "Explosion",
+    "Giga Impact",
+    "Rock Polish",
+    "Stone Edge",
+    "Thunder Wave",
+    "Psych Up",
+    "Bulldoze",
+    "Rock Slide",
+    "Swagger",
+    "Substitute",
+    "Rock Smash"
+  ],
+  "tmMoves4": [
+    "Focus Punch",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Protect",
+    "Safeguard",
+    "Frustration",
+    "Thunderbolt",
+    "Thunder",
+    "Earthquake",
+    "Return",
+    "Dig",
+    "Brick Break",
+    "Double Team",
+    "Shock Wave",
+    "Sandstorm",
+    "Rock Tomb",
+    "Facade",
+    "Secret Power",
+    "Rest",
+    "Focus Blast",
+    "Fling",
+    "Charge Beam",
+    "Endure",
+    "Drain Punch",
+    "Explosion",
+    "Giga Impact",
+    "Rock Polish",
+    "Stone Edge",
+    "Thunder Wave",
+    "Stealth Rock",
+    "Psych Up",
+    "Rock Slide",
+    "Sleep Talk",
+    "Natural Gift",
+    "Swagger",
+    "Substitute"
+  ],
+  "tmMoves3": [
+    "Focus Punch",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Protect",
+    "Safeguard",
+    "Frustration",
+    "Thunderbolt",
+    "Thunder",
+    "Earthquake",
+    "Return",
+    "Dig",
+    "Brick Break",
+    "Double Team",
+    "Shock Wave",
+    "Sandstorm",
+    "Rock Tomb",
+    "Facade",
+    "Secret Power",
+    "Rest"
+  ],
+  "forms": {}
+}

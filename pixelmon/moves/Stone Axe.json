@@ -1,0 +1,50 @@
+{
+  "attackIndex": 5187,
+  "attackName": "Stone Axe",
+  "attackType": "Rock",
+  "attackCategory": "PHYSICAL",
+  "basePower": 65,
+  "ppBase": 15,
+  "ppMax": 18,
+  "accuracy": 90,
+  "makesContact": false,
+  "effects": [
+    {
+      "maxLayers": 1,
+      "type": "StealthRock",
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "StealthRock"
+    }
+  ],
+  "animations": [
+    {
+		"id": "stationary",
+		"effects": {
+			"0": {
+				"id": "RAIN",
+				"maxHorizontalDisplacement": 1,
+				"texture": "SOLID"
+			}
+		}
+	}
+  ],
+  "targetingInfo": {
+    "hitsAll": true,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": false,
+    "hitsExtendedAlly": false
+  },
+  "z": [
+    {
+      "crystal": "rockium_z",
+      "attackName": "Continental Crush",
+      "basePower": 140,
+      "effects": [],
+      "allowedPokemon": []
+    }
+  ]
+}

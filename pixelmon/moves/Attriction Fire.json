@@ -1,0 +1,50 @@
+{
+  "attackIndex": 7202,
+  "attackName": "Attrition Fire",
+  "attackType": "Fire",
+  "attackCategory": "PHYSICAL",
+  "basePower": 65,
+  "ppBase": 15,
+  "ppMax": 24,
+  "accuracy": 95,
+  "makesContact": true,
+  "effects": [
+    {
+      "type": "Speed",
+      "amount": -1,
+      "isUser": false,
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "StatsEffect"
+    },
+	{
+      "type": "Speed",
+      "amount": 1,
+      "isUser": true,
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "StatsEffect"
+    }
+  ],
+  "animations": [
+    "leapForward"
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+  },
+  "z": [
+    {
+      "crystal": "rockium_z",
+      "attackName": "Continental Crush",
+      "basePower": 120,
+      "effects": [],
+      "allowedPokemon": []
+    }
+  ]
+}

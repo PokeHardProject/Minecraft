@@ -1,0 +1,347 @@
+{
+    "pixelmonName": "Spoilyther",
+    "pokemon": "Magcargo",
+    "form": 0,
+    "stats": {
+        "HP": 83,
+        "Attack": 55,
+        "Defence": 90,
+        "Speed": 85,
+        "SpecialAttack": 130,
+        "SpecialDefence": 85
+    },
+    "catchRate": 75,
+    "malePercent": 50,
+    "spawnLevel": 38,
+    "spawnLevelRange": 22,
+    "baseExp": 154,
+    "baseFriendship": 70,
+    "types": [
+        "Poison"
+    ],
+    "height": 0.8,
+    "isRideable": false,
+    "canFly": false,
+    "canSurf": false,
+    "preEvolutions": [
+        "Slugma"
+    ],
+    "experienceGroup": "MediumFast",
+    "aggression": {
+        "timid": 80,
+        "passive": 0,
+        "aggressive": 20
+    },
+    "spawnLocations": [
+        "Land"
+    ],
+    "evYields": {
+        "Defence": 2
+    },
+    "weight": 55,
+    "bounding_box": {
+        "width": 1,
+        "height": 0.85,
+        "eye_height": 0.68
+    },
+    "evolutions": [],
+    "abilities": [
+        "Aftermath",
+        "Stench",
+        "Corrosion"
+    ],
+    "eggGroups": [
+        "Slugma"
+    ],
+    "eggCycles": 21,
+    "levelUpMoves": {
+        "0": [
+            "Earth Power",
+            "Ember",
+            "Rock Throw",
+            "Shell Smash",
+            "Smog",
+            "Yawn"
+        ],
+        "6": [
+            "Mortal Spin"
+        ],
+        "8": [
+            "Rock Throw"
+        ],
+        "13": [
+            "Spiky Shield"
+        ],
+        "15": [
+            "Toxic Spikes"
+        ],
+        "20": [
+            "Acid Spray"
+        ],
+        "22": [
+            "Ancient Power"
+        ],
+        "27": [
+            "Rock Polish"
+        ],
+        "29": [
+            "Spikes"
+        ],
+        "34": [
+            "Venoshock"
+        ],
+        "36": [
+            "Sludge Bomb"
+        ],
+        "43": [
+            "Body Slam"
+        ],
+        "47": [
+            "Recover"
+        ],
+        "54": [
+            "Sludge Wave"
+        ],
+        "58": [
+            "Earth Power"
+        ]
+    },
+    "tutorMoves": [
+        "After You",
+        "Earth Power",
+        "Heat Wave",
+        "Iron Defense",
+        "Pain Split",
+        "Snore",
+        "Stealth Rock",
+        "Stomping Tantrum"
+    ],
+    "eggMoves": [
+        "Acid Armor",
+        "Curse",
+        "Earth Power",
+        "Guard Swap",
+        "Heat Wave",
+        "Inferno",
+        "Memento",
+        "Rollout",
+        "Smokescreen",
+        "Spit Up",
+        "Stockpile",
+        "Swallow"
+    ],
+    "transferMoves": [
+        "Captivate",
+        "Defense Curl",
+        "Double-Edge",
+        "Endure",
+        "Mimic",
+        "Mud-Slap",
+        "Natural Gift",
+        "Refresh",
+        "Rock Smash",
+        "Secret Power",
+        "Strength"
+    ],
+    "hmMoves": [],
+    "tmMoves7": [
+        "Toxic",
+        "Hidden Power",
+        "Sunny Day",
+        "Hyper Beam",
+        "Light Screen",
+        "Protect",
+        "Frustration",
+        "Solar Beam",
+        "Smack Down",
+        "Earthquake",
+        "Return",
+        "Double Team",
+        "Reflect",
+        "Flamethrower",
+        "Sandstorm",
+        "Fire Blast",
+        "Rock Tomb",
+        "Facade",
+        "Flame Charge",
+        "Rest",
+        "Attract",
+        "Round",
+        "Overheat",
+        "Will-O-Wisp",
+        "Explosion",
+        "Giga Impact",
+        "Rock Polish",
+        "Stone Edge",
+        "Gyro Ball",
+        "Bulldoze",
+        "Rock Slide",
+        "Infestation",
+        "Swagger",
+        "Sleep Talk",
+        "Substitute",
+        "Nature Power",
+        "Confide"
+    ],
+    "tmMoves6": [
+        "Toxic",
+        "Hidden Power",
+        "Sunny Day",
+        "Hyper Beam",
+        "Light Screen",
+        "Protect",
+        "Frustration",
+        "Solar Beam",
+        "Smack Down",
+        "Earthquake",
+        "Return",
+        "Double Team",
+        "Reflect",
+        "Flamethrower",
+        "Sandstorm",
+        "Fire Blast",
+        "Rock Tomb",
+        "Facade",
+        "Flame Charge",
+        "Rest",
+        "Attract",
+        "Round",
+        "Overheat",
+        "Incinerate",
+        "Will-O-Wisp",
+        "Explosion",
+        "Giga Impact",
+        "Rock Polish",
+        "Stone Edge",
+        "Gyro Ball",
+        "Bulldoze",
+        "Rock Slide",
+        "Infestation",
+        "Swagger",
+        "Sleep Talk",
+        "Substitute",
+        "Secret Power",
+        "Nature Power",
+        "Confide"
+    ],
+    "tmMoves5": [
+        "Toxic",
+        "Hidden Power",
+        "Sunny Day",
+        "Hyper Beam",
+        "Light Screen",
+        "Protect",
+        "Frustration",
+        "Solar Beam",
+        "Smack Down",
+        "Earthquake",
+        "Return",
+        "Double Team",
+        "Reflect",
+        "Flamethrower",
+        "Sandstorm",
+        "Fire Blast",
+        "Rock Tomb",
+        "Facade",
+        "Flame Charge",
+        "Rest",
+        "Attract",
+        "Round",
+        "Overheat",
+        "Incinerate",
+        "Will-O-Wisp",
+        "Explosion",
+        "Giga Impact",
+        "Rock Polish",
+        "Stone Edge",
+        "Gyro Ball",
+        "Bulldoze",
+        "Rock Slide",
+        "Swagger",
+        "Substitute",
+        "Rock Smash"
+    ],
+    "tmMoves4": [
+        "Toxic",
+        "Hidden Power",
+        "Sunny Day",
+        "Hyper Beam",
+        "Light Screen",
+        "Protect",
+        "Frustration",
+        "Solar Beam",
+        "Earthquake",
+        "Return",
+        "Double Team",
+        "Reflect",
+        "Flamethrower",
+        "Sandstorm",
+        "Fire Blast",
+        "Rock Tomb",
+        "Facade",
+        "Secret Power",
+        "Rest",
+        "Attract",
+        "Overheat",
+        "Endure",
+        "Will-O-Wisp",
+        "Explosion",
+        "Giga Impact",
+        "Rock Polish",
+        "Stone Edge",
+        "Gyro Ball",
+        "Stealth Rock",
+        "Captivate",
+        "Rock Slide",
+        "Sleep Talk",
+        "Natural Gift",
+        "Swagger",
+        "Substitute"
+    ],
+    "tmMoves3": [
+        "Toxic",
+        "Hidden Power",
+        "Sunny Day",
+        "Hyper Beam",
+        "Light Screen",
+        "Protect",
+        "Frustration",
+        "Earthquake",
+        "Return",
+        "Double Team",
+        "Reflect",
+        "Flamethrower",
+        "Sandstorm",
+        "Fire Blast",
+        "Rock Tomb",
+        "Facade",
+        "Secret Power",
+        "Rest",
+        "Attract",
+        "Overheat"
+    ],
+    "tmMoves2": [
+        "Curse",
+        "Rollout",
+        "Toxic",
+        "Rock Smash",
+        "Hidden Power",
+        "Sunny Day",
+        "Snore",
+        "Hyper Beam",
+        "Protect",
+        "Endure",
+        "Frustration",
+        "Earthquake",
+        "Return",
+        "Mud-Slap",
+        "Double Team",
+        "Swagger",
+        "Sleep Talk",
+        "Fire Blast",
+        "Defense Curl",
+        "Rest",
+        "Attract"
+    ],
+    "forms": {}
+}
