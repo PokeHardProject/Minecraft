@@ -77,7 +77,7 @@
       "Stomp"
     ],
     "31": [
-      "Flail"
+      "Electroclaw"
     ],
     "36": [
       "Razor Shell"
@@ -383,7 +383,7 @@
     "Substitute"
   ],
   "forms": {
- 	  "2" : {
+ 	  "5" : {
   "stats": {
     "HP": 105,
     "Attack": 125,
@@ -460,7 +460,7 @@
       "Thunder Punch"
     ],
     "31": [
-      "Flail"
+      "Electroclaw"
     ],
     "36": [
       "Razor Shell"

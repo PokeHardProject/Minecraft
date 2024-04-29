@@ -1,12 +1,12 @@
 {
-  "attackIndex": 7731,
-  "attackName": "Crushing Dive",
-  "attackType": "Flying",
+  "attackIndex": 7701,
+  "attackName": "Electroclaw",
+  "attackType": "Electric",
   "attackCategory": "PHYSICAL",
-  "basePower": 100,
-  "ppBase": 5,
-  "ppMax": 8,
-  "accuracy": 90,
+  "basePower": 85,
+  "ppBase": 10,
+  "ppMax": 16,
+  "accuracy": 100,
   "makesContact": true,
   "effects": [
     {
@@ -14,7 +14,7 @@
       "modifiers": [
         {
           "type": "Chance",
-          "value": 50.0
+          "value": 30.0
         }
       ],
       "persists": false,
@@ -22,7 +22,7 @@
     }
   ],
   "animations": [
-    "run"
+    "leapForward"
   ],
   "targetingInfo": {
     "hitsAll": false,
@@ -35,8 +35,8 @@
   },
   "z": [
     {
-      "crystal": "normalium_z",
-      "attackName": "Breakneck Blitz",
+      "crystal": "waterium_z",
+      "attackName": "Hydro Vortex",
       "basePower": 160,
       "effects": [],
       "allowedPokemon": []

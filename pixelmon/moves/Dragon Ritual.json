@@ -1,6 +1,6 @@
 {
-  "attackIndex": 7712,
-  "attackName": "Dragon Armor",
+  "attackIndex": 7703,
+  "attackName": "Dragon Ritual",
   "attackType": "Dragon",
   "attackCategory": "STATUS",
   "basePower": 0,
@@ -10,7 +10,7 @@
   "makesContact": false,
   "effects": [
     {
-      "type": "Defence",
+      "type": "SpecialAttack",
       "amount": 1,
       "isUser": true,
       "modifiers": [],
@@ -18,18 +18,12 @@
       "effectTypeID": "StatsEffect"
     },
     {
-      "type": "SpecialDefence",
+      "type": "Speed",
       "amount": 1,
       "isUser": true,
       "modifiers": [],
       "persists": false,
       "effectTypeID": "StatsEffect"
-    },
-	{
-      "type": "AquaRing",
-      "modifiers": [],
-      "persists": false,
-      "effectTypeID": "AquaRing"
     }
   ],
   "animations": [
@@ -46,19 +40,17 @@
   },
   "z": [
     {
-      "crystal": "psychium_z",
-      "attackName": "Z-Cosmic Power",
+      "crystal": "dragonium_z",
+      "attackName": "Z-Dragon Dance",
       "basePower": 0,
       "effects": [
 	    {
-		  "type": "SpecialDefence",
-		  "amount": 1,
-		  "isUser": true,
-		  "modifiers": [],
-		  "persists": false,
-		  "effectTypeID": "StatsEffect"
-		}
-	  ],
+          "modifiers": [],
+          "persists": false,
+          "effectTypeID": "Haze",
+		  "onlyLowered": true
+        }
+      ],
       "allowedPokemon": []
     }
   ]

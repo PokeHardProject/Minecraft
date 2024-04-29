@@ -1,19 +1,26 @@
 {
-  "attackIndex": 7728,
-  "attackName": "Dogeslave",
+  "attackIndex": 7710,
+  "attackName": "Suppresive Strikes",
   "attackType": "Fighting",
   "attackCategory": "PHYSICAL",
-  "basePower": 100,
-  "ppBase": 5,
-  "ppMax": 8,
-  "accuracy": 95,
-  "makesContact": false,
+  "basePower": 50,
+  "ppBase": 15,
+  "ppMax": 24,
+  "accuracy": 90,
+  "makesContact": true,
   "effects": [
     {
-      "stages": 1,
+      "minHits": 2,
+      "maxHits": 2,
       "modifiers": [],
       "persists": false,
-      "effectTypeID": "CriticalHit"
+      "effectTypeID": "MultipleHit"
+    },
+	{
+      "type": "PartialTrap",
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "PartialTrap"
     }
   ],
   "animations": [
@@ -32,7 +39,7 @@
     {
       "crystal": "dragonium_z",
       "attackName": "Devastating Drake",
-      "basePower": 180,
+      "basePower": 100,
       "effects": [],
       "allowedPokemon": []
     }

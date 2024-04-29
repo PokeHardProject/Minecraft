@@ -1,28 +1,30 @@
 {
-  "attackIndex": 7731,
-  "attackName": "Crushing Dive",
-  "attackType": "Flying",
+  "attackIndex": 7704,
+  "attackName": "Hyperspeed",
+  "attackType": "Normal",
   "attackCategory": "PHYSICAL",
-  "basePower": 100,
+  "basePower": 80,
   "ppBase": 5,
   "ppMax": 8,
-  "accuracy": 90,
+  "accuracy": 100,
   "makesContact": true,
   "effects": [
     {
-      "type": "Paralysis",
-      "modifiers": [
-        {
-          "type": "Chance",
-          "value": 50.0
-        }
-      ],
+      "priority": 2,
+      "modifiers": [],
       "persists": false,
-      "effectTypeID": "Paralysis"
+      "effectTypeID": "Priority"
+    },
+	    {
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "BrickBreak"
     }
   ],
   "animations": [
-    "run"
+      {
+          "id": "run"
+      }
   ],
   "targetingInfo": {
     "hitsAll": false,
