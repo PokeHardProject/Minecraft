@@ -3,11 +3,11 @@
   "pokemon": "Plusle",
   "form": 0,
   "stats": {
-    "HP": 60,
-    "Attack": 50,
-    "Defence": 40,
-    "Speed": 95,
-    "SpecialAttack": 85,
+    "HP": 65,
+    "Attack": 65,
+    "Defence": 88,
+    "Speed": 125,
+    "SpecialAttack": 130,
     "SpecialDefence": 75
   },
   "catchRate": 200,
@@ -17,7 +17,8 @@
   "baseExp": 120,
   "baseFriendship": 70,
   "types": [
-    "Electric"
+    "Electric",
+	"Fire"
   ],
   "height": 0.4,
   "isRideable": false,
@@ -44,7 +45,7 @@
   },
   "evolutions": [],
   "abilities": [
-    "Plus",
+    "FlashFire",
     null,
     "LightningRod"
   ],
@@ -64,7 +65,7 @@
       "Helping Hand"
     ],
     "7": [
-      "Spark"
+      "Ember"
     ],
     "10": [
       "Encore"
@@ -88,7 +89,7 @@
       "Charge"
     ],
     "31": [
-      "Discharge"
+      "Flamethrower"
     ],
     "34": [
       "Baton Pass"
@@ -97,7 +98,7 @@
       "Agility"
     ],
     "40": [
-      "Last Resort"
+      "Lava Plume"
     ],
     "43": [
       "Thunder"
@@ -106,7 +107,7 @@
       "Nasty Plot"
     ],
     "49": [
-      "Entrainment"
+      "Fire Blast"
     ]
   },
   "tutorMoves": [

@@ -3,12 +3,12 @@
   "pokemon": "Spinda",
   "form": 0,
   "stats": {
-    "HP": 60,
-    "Attack": 60,
-    "Defence": 60,
+    "HP": 65,
+    "Attack": 55,
+    "Defence": 78,
     "Speed": 60,
-    "SpecialAttack": 60,
-    "SpecialDefence": 60
+    "SpecialAttack": 105,
+    "SpecialDefence": 105
   },
   "catchRate": 255,
   "malePercent": 50,
@@ -17,7 +17,8 @@
   "baseExp": 126,
   "baseFriendship": 70,
   "types": [
-    "Normal"
+    "Psychic",
+	"Fairy"
   ],
   "height": 1.1,
   "isRideable": false,
@@ -58,7 +59,7 @@
       "Tackle"
     ],
     "5": [
-      "Copycat"
+      "Trippy Trip"
     ],
     "10": [
       "Feint Attack"
@@ -91,7 +92,7 @@
       "Flail"
     ],
     "55": [
-      "Thrash"
+      "Psycho Boost"
     ]
   },
   "tutorMoves": [

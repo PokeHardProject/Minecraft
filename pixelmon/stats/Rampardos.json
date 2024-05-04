@@ -3,12 +3,12 @@
   "pokemon": "Rampardos",
   "form": 0,
   "stats": {
-    "HP": 97,
-    "Attack": 165,
-    "Defence": 60,
-    "Speed": 58,
-    "SpecialAttack": 65,
-    "SpecialDefence": 50
+    "HP": 115,
+    "Attack": 145,
+    "Defence": 92,
+    "Speed": 88,
+    "SpecialAttack": 52,
+    "SpecialDefence": 86
   },
   "catchRate": 45,
   "malePercent": 87,
@@ -17,7 +17,8 @@
   "baseExp": 199,
   "baseFriendship": 70,
   "types": [
-    "Rock"
+    "Rock",
+	"Dragon"
   ],
   "height": 1.6,
   "isRideable": true,
@@ -71,7 +72,7 @@
       "Endeavor",
       "Focus Energy",
       "Headbutt",
-      "Leer",
+      "Dragon Hammer",
       "Pursuit"
     ],
     "6": [
@@ -90,7 +91,7 @@
       "Assurance"
     ],
     "28": [
-      "Chip Away"
+      "Dual Chop"
     ],
     "36": [
       "Ancient Power"
@@ -128,7 +129,7 @@
   ],
   "eggMoves": [
     "Crunch",
-    "Curse",
+    "Dragon Dance",
     "Double-Edge",
     "Hammer Arm",
     "Iron Head",

@@ -3,12 +3,12 @@
   "pokemon": "Delibird",
   "form": 0,
   "stats": {
-    "HP": 45,
-    "Attack": 55,
-    "Defence": 45,
-    "Speed": 75,
-    "SpecialAttack": 65,
-    "SpecialDefence": 45
+    "HP": 56,
+    "Attack": 80,
+    "Defence": 114,
+    "Speed": 136,
+    "SpecialAttack": 124,
+    "SpecialDefence": 60
   },
   "catchRate": 45,
   "malePercent": 50,
@@ -18,7 +18,7 @@
   "baseFriendship": 70,
   "types": [
     "Ice",
-    "Flying"
+    "Water"
   ],
   "height": 0.9,
   "isRideable": false,
@@ -47,7 +47,7 @@
   "abilities": [
     "VitalSpirit",
     "Hustle",
-    "Insomnia"
+    "NightWalker"
   ],
   "eggGroups": [
     "Water1",
@@ -58,8 +58,20 @@
     "0": [
       "Present"
     ],
+    "12": [
+      "Encore"
+    ],
+    "23": [
+      "Taunt"
+    ],
     "25": [
       "Drill Peck"
+    ],
+    "28": [
+      "Hydro Pump"
+    ],
+    "30": [
+      "Flip Turn"
     ]
   },
   "tutorMoves": [

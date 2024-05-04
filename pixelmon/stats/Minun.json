@@ -3,12 +3,12 @@
   "pokemon": "Minun",
   "form": 0,
   "stats": {
-    "HP": 60,
-    "Attack": 40,
-    "Defence": 50,
-    "Speed": 95,
-    "SpecialAttack": 75,
-    "SpecialDefence": 85
+    "HP": 65,
+    "Attack": 130,
+    "Defence": 75,
+    "Speed": 125,
+    "SpecialAttack": 65,
+    "SpecialDefence": 88
   },
   "catchRate": 200,
   "malePercent": 50,
@@ -17,7 +17,8 @@
   "baseExp": 120,
   "baseFriendship": 70,
   "types": [
-    "Electric"
+    "Electric",
+	"Ice"
   ],
   "height": 0.4,
   "isRideable": false,
@@ -44,7 +45,7 @@
   },
   "evolutions": [],
   "abilities": [
-    "Minus",
+    "Refrigerate",
     null,
     "VoltAbsorb"
   ],
@@ -64,7 +65,7 @@
       "Helping Hand"
     ],
     "7": [
-      "Spark"
+      "Ice Shard"
     ],
     "10": [
       "Encore"
@@ -88,13 +89,13 @@
       "Charge"
     ],
     "31": [
-      "Discharge"
+      "Body Slam"
     ],
     "34": [
       "Baton Pass"
     ],
     "37": [
-      "Agility"
+      "Icicle Spear"
     ],
     "40": [
       "Trump Card"

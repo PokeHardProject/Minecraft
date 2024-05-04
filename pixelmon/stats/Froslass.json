@@ -3,12 +3,12 @@
   "pokemon": "Froslass",
   "form": 0,
   "stats": {
-    "HP": 70,
-    "Attack": 80,
-    "Defence": 70,
-    "Speed": 110,
-    "SpecialAttack": 80,
-    "SpecialDefence": 70
+    "HP": 80,
+    "Attack": 70,
+    "Defence": 80,
+    "Speed": 105,
+    "SpecialAttack": 125,
+    "SpecialDefence": 75
   },
   "catchRate": 75,
   "malePercent": 0,
@@ -49,7 +49,7 @@
   "abilities": [
     "SnowCloak",
     null,
-    "CursedBody"
+    "SnowWarning"
   ],
   "eggGroups": [
     "Fairy",
